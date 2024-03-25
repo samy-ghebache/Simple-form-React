@@ -1,0 +1,15 @@
+.master-container {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.4);
+  left: 0;
+  top: 0;
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+}
+.phone-container {
+  position: relative;
+  top: 36%;
+  width: 80%;
+  left: 10%;
+}

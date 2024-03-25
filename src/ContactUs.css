@@ -1,0 +1,42 @@
+.form-container {
+  width: 60%;
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: blueviolet;
+  border-radius: 10px;
+}
+.form-container p,
+h1 {
+  color: white;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 10px;
+  transition: all 0.5s;
+  margin-top: 10px;
+  color: white;
+  font-size: 15px;
+}
+.disable-btn {
+  /* disabled */
+  background-color: blueviolet;
+  color: blueviolet;
+}
+.submit-btn {
+  background-color: #a52a2a;
+}
+
+input,
+select {
+  width: 100%;
+  border: none;
+  height: 20px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+/* .submit-btn:hover {
+  box-shadow: 3px 2px 1px;
+} */
